@@ -1,14 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "promoData": [
+    {
+      "id": 1,
+      "linkClass": "single-promo color-1 bg-hover hover-bottom text-center p-5",
+      "title": "trend design",
+      "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "text_2": "ex eligendi magni sit impedit iusto, sed ad fuga minima, dignissimos ducimus autem molestias, nostrum nesciunt enim? Ea, non hic voluptates dolorum impedit eveniet dolorem temporibus illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
+      "text_span": "Aspernatur provident unde"
+    },
+    {
+      "id": 2,
+      "linkClass": "single-promo color-2 bg-hover active hover-bottom text-center p-5",
+      "title": "Keyword ranking",
+      "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident unde ex eligendi magni sit impedit iusto, sed ad fuga minima,",
+      "text_2": "molestias, nostrum nesciunt enim? Ea, non hic voluptates dolorum impedit eveniet dolorem temporibus illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
+      "text_span": "dignissimos ducimus autem"
+    },
+    {
+      "id": 3,
+      "linkClass": "single-promo color-3 bg-hover hover-bottom text-center p-5",
+      "title": "Social media",
+      "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident unde ex eligendi magni sit impedit iusto, sed ad fuga minima, dignissimos ducimus autem molestias, nostrum nesciunt enim? Ea, non hic voluptates",
+      "text_2": "illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
+      "text_span": "dolorum impedit eveniet dolorem temporibus"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "promoData_1": [
+    {
+      "id": 1,
+      "listClass": "single-promo grad-hover text-center p-5",
+      "title": "Zero to Hero",
+      "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "text_2": "ex eligendi magni sit impedit iusto, sed ad fuga minima, dignissimos ducimus autem molestias, nostrum nesciunt enim? Ea, non hic voluptates dolorum impedit eveniet dolorem temporibus illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
+      "text_span": "Aspernatur provident unde"
+    },
+    {
+      "id": 2,
+      "listClass": "single-promo grad-hover active text-center p-5",
+      "title": "Dedicated Support",
+      "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident unde ex eligendi magni sit impedit iusto, sed ad fuga minima,",
+      "text_2": "molestias, nostrum nesciunt enim? Ea, non hic voluptates dolorum impedit eveniet dolorem temporibus illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
+      "text_span": "dignissimos ducimus autem"
+    },
+    {
+      "id": 3,
+      "listClass": "single-promo grad-hover text-center p-5",
+      "title": "100% Up-time",
+      "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident unde ex eligendi magni sit impedit iusto, sed ad fuga minima, dignissimos ducimus autem molestias, nostrum nesciunt enim? Ea, non hic voluptates",
+      "text_2": "illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
+      "text_span": "dolorum impedit eveniet dolorem temporibus"
+    }
+  ]
 }
